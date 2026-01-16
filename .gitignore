@@ -38,3 +38,5 @@
 
 # AUTO-RECOVERY files
 *.swar
+*.bak
+*.tmp
